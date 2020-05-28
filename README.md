@@ -7,3 +7,4 @@
 ## conclusão
 ## agradecimentos
 ## referências bibliográficas
+<p>colocar refs em ordem alfabética.</p>
